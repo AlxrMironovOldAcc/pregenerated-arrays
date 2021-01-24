@@ -19,4 +19,6 @@
 	extern const uint8_t PERCENT_TO_5BIT[101];
 	extern const uint8_t BYTE_TO_PERCENT[256];
 	
+	extern const uint8_t DALLAS_CRC8[256];
+	
 #endif 
